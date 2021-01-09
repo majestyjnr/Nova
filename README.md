@@ -1,8 +1,8 @@
 # Nova Chat App
-** Currently Under Development **
+**Currently Under Development**
 
 ## FrontEnd Framework
-** React **
+**React**
 
 ## BackEnd Framework
-** Node Js **
+**Node Js**
